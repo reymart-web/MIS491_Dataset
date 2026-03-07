@@ -1,0 +1,177 @@
+Date,Site ID,Crew Size,Hours Worked,Raw Material (kg),Ammolite Bearing (kg),Waste (kg),Yield %,Downtime (hrs),Weather,Supervisor,Notes
+2025-01-02,SITE-002,3,11,196.98,29.31,167.67,14.88,4.97,Snow,Mark Turner,Normal operations
+2025-01-03,SITE-005,1,10,50.04,7.95,42.09,15.89,3.9,Snow,Caitlin Furby,Weather-related slowdown
+2025-01-04,SITE-006,2,7,83.11,8.56,74.55,10.3,3.33,Frozen Ground,Mark Turner,Minor mechanical delay
+2025-01-05,SITE-006,1,11,60.12,11.74,48.38,19.53,5.55,Frozen Ground,Caitlin Furby,Productivity within expected range
+2025-01-07,SITE-005,4,10,117.47,14.89,102.58,12.68,7.32,Snow,Mark Turner,Minor mechanical delay
+2025-01-09,SITE-006,3,10,164.5,16.95,147.55,10.3,3.54,Snow,Caitlin Furby,Weather-related slowdown
+2025-01-10,SITE-005,2,9,83.29,11.67,71.62,14.01,4.66,Snow,Mark Turner,Normal operations
+2025-01-13,SITE-001,4,11,273.14,49.61,223.53,18.16,3.07,Snow,Mark Turner,Routine safety meeting conducted
+2025-01-14,SITE-001,1,11,114.07,7.73,106.34,6.78,1.37,Snow,Caitlin Furby,Weather-related slowdown
+2025-01-15,SITE-001,1,9,50.08,12.18,37.9,24.32,6.83,Frozen Ground,Caitlin Furby,Routine safety meeting conducted
+2025-01-21,SITE-001,2,10,50.03,9.92,40.11,19.83,7.61,Frozen Ground,Mark Turner,Minor mechanical delay
+2025-01-24,SITE-002,1,10,76.3,16.05,60.25,21.04,1.76,Snow,Mark Turner,Productivity within expected range
+2025-01-27,SITE-002,4,12,332.96,35.67,297.29,10.71,4.71,Frozen Ground,Caitlin Furby,Productivity within expected range
+2025-01-28,SITE-006,2,13,181.4,23.85,157.55,13.15,5,Frozen Ground,Mark Turner,Weather-related slowdown
+2025-02-02,SITE-005,2,13,227.69,11.56,216.13,5.08,3.3,Wind,Caitlin Furby,Routine safety meeting conducted
+2025-02-03,SITE-002,1,10,74.3,8.17,66.13,11,3.62,Frozen Ground,Caitlin Furby,Normal operations
+2025-02-04,SITE-001,4,10,181.88,42.55,139.33,23.39,4.19,Frozen Ground,Mark Turner,Routine safety meeting conducted
+2025-02-05,SITE-006,4,8,107.98,11.64,96.34,10.78,4.64,Frozen Ground,Mark Turner,Productivity within expected range
+2025-02-06,SITE-001,2,8,50.04,8.78,41.26,17.55,6.89,Frozen Ground,Caitlin Furby,Weather-related slowdown
+2025-02-07,SITE-006,3,9,50.09,7.33,42.76,14.63,7.49,Frozen Ground,Mark Turner,Minor mechanical delay
+2025-02-08,SITE-005,4,13,170.28,12.16,158.12,7.14,7.98,Wind,Caitlin Furby,Excavation area adjustment
+2025-02-19,SITE-002,3,6,50.06,5.34,44.72,10.67,4.2,Frozen Ground,Mark Turner,Routine safety meeting conducted
+2025-02-20,SITE-005,1,9,74.98,5.22,69.76,6.96,2.13,Rain,Mark Turner,Normal operations
+2025-03-07,SITE-006,3,12,314.19,23.54,290.65,7.49,2.1,Clear,Mark Turner,Excavation area adjustment
+2025-03-08,SITE-001,4,9,173.97,35.16,138.81,20.21,3.59,Snow,Caitlin Furby,Weather-related slowdown
+2025-03-09,SITE-006,1,8,66.95,9.72,57.23,14.52,1.97,Wind,Mark Turner,Normal operations
+2025-03-11,SITE-001,1,6,50.02,2.65,47.37,5.3,2.53,Snow,Mark Turner,Productivity within expected range
+2025-03-12,SITE-002,1,11,89.92,5.08,84.84,5.65,0.28,Wind,Caitlin Furby,Routine safety meeting conducted
+2025-03-13,SITE-002,1,12,83.56,6.34,77.22,7.59,1.2,Wind,Mark Turner,Excavation area adjustment
+2025-03-14,SITE-001,2,14,237.27,19.52,217.75,8.23,3.04,Snow,Caitlin Furby,Weather-related slowdown
+2025-03-15,SITE-001,4,6,148.48,24.77,123.71,16.68,1.58,Wind,Mark Turner,Excavation area adjustment
+2025-03-16,SITE-002,4,8,285.79,63.23,222.56,22.12,1.07,Wind,Mark Turner,Productivity within expected range
+2025-03-20,SITE-002,1,9,52.61,7.99,44.62,15.19,4.43,Snow,Mark Turner,Excavation area adjustment
+2025-03-21,SITE-005,3,9,299.29,30.27,269.02,10.11,0.49,Wind,Caitlin Furby,Routine safety meeting conducted
+2025-03-22,SITE-005,3,8,140.04,18.3,121.74,13.07,1.89,Rain,Caitlin Furby,Productivity within expected range
+2025-03-24,SITE-005,1,13,86.26,14.27,71.99,16.54,1.08,Wind,Caitlin Furby,Weather-related slowdown
+2025-03-25,SITE-002,2,8,120.37,17.17,103.2,14.26,2.87,Snow,Mark Turner,Minor mechanical delay
+2025-03-26,SITE-002,1,8,58.52,8.04,50.48,13.74,0.37,Wind,Mark Turner,Normal operations
+2025-03-27,SITE-006,4,11,281.71,43.3,238.41,15.37,2.87,Wind,Caitlin Furby,Weather-related slowdown
+2025-03-29,SITE-001,4,14,498.66,39.44,459.22,7.89,1.39,Wind,Mark Turner,Excavation area adjustment
+2025-04-01,SITE-001,1,11,76.3,4.11,72.19,5.39,1.24,Wind,Mark Turner,Weather-related slowdown
+2025-04-05,SITE-002,3,12,390.03,31.41,358.62,8.05,0.86,Snow,Caitlin Furby,Minor mechanical delay
+2025-04-06,SITE-006,2,8,145.78,28.29,117.49,19.41,0.23,Wind,Mark Turner,Productivity within expected range
+2025-04-07,SITE-006,1,6,50.6,11.38,39.22,22.49,1.42,Wind,Caitlin Furby,Weather-related slowdown
+2025-04-09,SITE-002,4,7,141.04,24.86,116.18,17.63,2.43,Snow,Caitlin Furby,Normal operations
+2025-04-12,SITE-002,3,9,259.36,40.37,218.99,15.57,0.82,Wind,Caitlin Furby,Weather-related slowdown
+2025-04-14,SITE-006,2,11,147.19,31.16,116.03,21.17,4.08,Snow,Mark Turner,Routine safety meeting conducted
+2025-04-15,SITE-001,3,11,317.41,58.95,258.46,18.57,2.05,Snow,Caitlin Furby,Productivity within expected range
+2025-04-17,SITE-001,2,7,78.13,10.17,67.96,13.02,2.87,Wind,Mark Turner,Productivity within expected range
+2025-04-19,SITE-006,1,12,85.25,14.68,70.57,17.22,2.01,Snow,Mark Turner,Normal operations
+2025-04-21,SITE-005,4,9,190.15,46.39,143.76,24.4,3.63,Snow,Caitlin Furby,Normal operations
+2025-04-23,SITE-002,3,8,140.43,28.57,111.86,20.34,2.49,Snow,Mark Turner,Normal operations
+2025-04-25,SITE-005,2,7,93.57,15.85,77.72,16.94,2.3,Wind,Caitlin Furby,Weather-related slowdown
+2025-04-29,SITE-005,4,6,185.6,19.96,165.64,10.75,1.05,Snow,Caitlin Furby,Minor mechanical delay
+2025-05-02,SITE-001,4,9,351.47,28.27,323.2,8.04,1.4,Wind,Caitlin Furby,Routine safety meeting conducted
+2025-05-03,SITE-002,3,9,269.65,53.79,215.86,19.95,0.36,Clear,Caitlin Furby,Routine safety meeting conducted
+2025-05-06,SITE-005,1,11,76.07,9.08,66.99,11.94,0.8,Clear,Mark Turner,Routine safety meeting conducted
+2025-05-08,SITE-006,1,8,58.35,7.78,50.57,13.33,0.58,Clear,Caitlin Furby,Excavation area adjustment
+2025-05-10,SITE-005,1,13,103.63,11.09,92.54,10.7,1.14,Wind,Mark Turner,Minor mechanical delay
+2025-05-16,SITE-005,2,11,185.85,28.54,157.31,15.36,0.81,Clear,Mark Turner,Productivity within expected range
+2025-05-17,SITE-006,2,11,201.36,34.31,167.05,17.04,1.99,Wind,Caitlin Furby,Normal operations
+2025-05-18,SITE-005,4,11,399.23,95.76,303.47,23.99,1.16,Clear,Caitlin Furby,Normal operations
+2025-05-19,SITE-005,2,10,126.74,8.94,117.8,7.05,1.42,Clear,Caitlin Furby,Normal operations
+2025-05-21,SITE-005,1,11,113.98,25.1,88.88,22.02,0.85,Clear,Mark Turner,Productivity within expected range
+2025-05-26,SITE-006,2,10,176.03,17.29,158.74,9.82,0.92,Clear,Mark Turner,Excavation area adjustment
+2025-05-28,SITE-006,3,10,223.33,32.44,190.89,14.53,0.99,Wind,Mark Turner,Normal operations
+2025-05-29,SITE-002,3,6,184.45,20.18,164.27,10.94,0.01,Clear,Mark Turner,Excavation area adjustment
+2025-05-30,SITE-001,1,12,100.58,13.62,86.96,13.54,0.95,Clear,Mark Turner,Normal operations
+2025-05-31,SITE-002,4,10,272.74,29.4,243.34,10.78,1.3,Clear,Caitlin Furby,Weather-related slowdown
+2025-06-04,SITE-005,1,11,84.81,19.62,65.19,23.13,0.89,Clear,Caitlin Furby,Productivity within expected range
+2025-06-05,SITE-006,2,11,150.08,31.45,118.63,20.96,0.54,Clear,Mark Turner,Weather-related slowdown
+2025-06-08,SITE-006,3,6,157.92,30.57,127.35,19.36,1.37,Clear,Caitlin Furby,Excavation area adjustment
+2025-06-09,SITE-006,3,12,395.28,48.57,346.71,12.29,0.41,Clear,Mark Turner,Routine safety meeting conducted
+2025-06-10,SITE-005,4,10,338.7,33.21,305.49,9.81,0.16,Clear,Caitlin Furby,Excavation area adjustment
+2025-06-11,SITE-006,4,13,367.27,25.53,341.74,6.95,1.28,Clear,Mark Turner,Weather-related slowdown
+2025-06-12,SITE-002,2,10,161.94,12.43,149.51,7.68,1.74,Wind,Caitlin Furby,Minor mechanical delay
+2025-06-13,SITE-002,1,14,142.96,7.39,135.57,5.17,0.5,Clear,Caitlin Furby,Routine safety meeting conducted
+2025-06-14,SITE-001,4,12,455.5,98.71,356.79,21.67,0.7,Clear,Caitlin Furby,Routine safety meeting conducted
+2025-06-15,SITE-001,1,10,80.05,14.89,65.16,18.6,0.71,Wind,Caitlin Furby,Routine safety meeting conducted
+2025-06-16,SITE-005,1,6,59.78,7.62,52.16,12.75,0.93,Clear,Mark Turner,Weather-related slowdown
+2025-06-18,SITE-001,3,11,291.06,52.46,238.6,18.02,0.98,Clear,Mark Turner,Routine safety meeting conducted
+2025-06-27,SITE-006,2,10,176.97,9.92,167.05,5.61,0.78,Clear,Mark Turner,Excavation area adjustment
+2025-07-03,SITE-001,3,14,462.36,103.8,358.56,22.45,0.76,Clear,Mark Turner,Minor mechanical delay
+2025-07-07,SITE-001,4,8,254.25,18.39,235.86,7.23,1.37,Clear,Mark Turner,Normal operations
+2025-07-08,SITE-005,4,13,499.15,48.39,450.76,9.68,0.22,Clear,Caitlin Furby,Weather-related slowdown
+2025-07-09,SITE-006,2,9,134.33,11.28,123.05,8.4,1.22,Clear,Caitlin Furby,Productivity within expected range
+2025-07-10,SITE-002,3,6,142.63,30.76,111.87,21.57,1.4,Clear,Caitlin Furby,Productivity within expected range
+2025-07-12,SITE-005,2,13,275.45,35.5,239.95,12.89,0.54,Clear,Mark Turner,Routine safety meeting conducted
+2025-07-13,SITE-005,3,12,417.35,93.33,324.02,22.36,0.03,Clear,Mark Turner,Routine safety meeting conducted
+2025-07-15,SITE-001,2,7,91.1,7.04,84.06,7.73,1.54,Wind,Caitlin Furby,Minor mechanical delay
+2025-07-18,SITE-006,3,13,441.77,90.84,350.93,20.56,0.39,Clear,Caitlin Furby,Minor mechanical delay
+2025-07-19,SITE-001,1,6,50.07,9.41,40.66,18.79,1.92,Wind,Mark Turner,Minor mechanical delay
+2025-07-20,SITE-002,4,14,497.24,41.57,455.67,8.31,0.42,Clear,Caitlin Furby,Excavation area adjustment
+2025-07-21,SITE-001,2,13,247.43,49.89,197.54,20.16,0.37,Clear,Caitlin Furby,Normal operations
+2025-07-26,SITE-006,4,7,280.62,25.99,254.63,9.26,0.24,Clear,Caitlin Furby,Excavation area adjustment
+2025-07-27,SITE-001,3,10,231.82,54.54,177.28,23.53,1.36,Clear,Caitlin Furby,Normal operations
+2025-07-28,SITE-002,3,13,360.32,57.29,303.03,15.9,1.35,Clear,Mark Turner,Excavation area adjustment
+2025-07-29,SITE-005,4,6,135.26,19.52,115.74,14.43,1.37,Clear,Mark Turner,Weather-related slowdown
+2025-07-30,SITE-006,3,12,271.51,20.9,250.61,7.7,0.96,Clear,Caitlin Furby,Normal operations
+2025-08-02,SITE-002,2,7,119.95,25.62,94.33,21.36,1.82,Wind,Mark Turner,Productivity within expected range
+2025-08-03,SITE-001,1,8,52.82,12.16,40.66,23.02,1.08,Clear,Caitlin Furby,Excavation area adjustment
+2025-08-04,SITE-002,2,6,119.75,13.07,106.68,10.91,0.86,Clear,Caitlin Furby,Normal operations
+2025-08-05,SITE-002,3,10,227.65,17.9,209.75,7.86,2.49,Wind,Mark Turner,Excavation area adjustment
+2025-08-06,SITE-002,2,13,280.76,42.35,238.41,15.08,0.74,Clear,Mark Turner,Productivity within expected range
+2025-08-07,SITE-006,3,10,322.85,58.77,264.08,18.2,0.55,Clear,Mark Turner,Routine safety meeting conducted
+2025-08-09,SITE-005,3,8,189.53,47.16,142.37,24.88,0.86,Wind,Caitlin Furby,Routine safety meeting conducted
+2025-08-10,SITE-006,2,11,233.3,14.57,218.73,6.25,0.25,Wind,Caitlin Furby,Normal operations
+2025-08-11,SITE-005,1,13,110.47,10.78,99.69,9.76,2,Wind,Caitlin Furby,Normal operations
+2025-08-12,SITE-001,1,9,75.89,12.15,63.74,16.01,1.2,Clear,Caitlin Furby,Routine safety meeting conducted
+2025-08-14,SITE-002,3,7,163.74,38.51,125.23,23.52,0.31,Clear,Caitlin Furby,Excavation area adjustment
+2025-08-15,SITE-001,1,11,75.87,14.83,61.04,19.55,0.99,Clear,Caitlin Furby,Routine safety meeting conducted
+2025-08-17,SITE-002,3,12,381.41,90.06,291.35,23.61,0.91,Clear,Mark Turner,Productivity within expected range
+2025-08-18,SITE-005,4,11,384.19,46.48,337.71,12.1,0.61,Clear,Caitlin Furby,Productivity within expected range
+2025-08-19,SITE-006,4,13,499.37,65.68,433.69,13.13,0.41,Wind,Caitlin Furby,Normal operations
+2025-08-20,SITE-005,2,11,192.36,16.37,175.99,8.51,1.18,Clear,Caitlin Furby,Excavation area adjustment
+2025-08-22,SITE-001,3,7,203.04,14.53,188.51,7.16,0.56,Clear,Caitlin Furby,Productivity within expected range
+2025-08-25,SITE-002,2,6,65.23,12.34,52.89,18.92,1.83,Wind,Mark Turner,Weather-related slowdown
+2025-08-26,SITE-005,2,10,149.25,20.4,128.85,13.67,0.18,Clear,Mark Turner,Weather-related slowdown
+2025-08-27,SITE-002,2,9,209.78,12.73,197.05,6.07,0.08,Clear,Caitlin Furby,Normal operations
+2025-08-28,SITE-001,3,7,190.71,36.55,154.16,19.17,0.75,Clear,Caitlin Furby,Excavation area adjustment
+2025-08-29,SITE-001,1,13,97.41,5.5,91.91,5.65,0.16,Clear,Mark Turner,Routine safety meeting conducted
+2025-08-30,SITE-002,3,6,162.7,18.31,144.39,11.25,0.21,Clear,Caitlin Furby,Excavation area adjustment
+2025-08-31,SITE-002,2,13,248.7,36.04,212.66,14.49,2.39,Wind,Caitlin Furby,Weather-related slowdown
+2025-09-01,SITE-001,4,11,370.45,22.12,348.33,5.97,1.43,Clear,Caitlin Furby,Routine safety meeting conducted
+2025-09-03,SITE-001,4,14,495.98,96.77,399.21,19.35,0.5,Clear,Mark Turner,Normal operations
+2025-09-04,SITE-002,1,9,79.29,16.85,62.44,21.25,0.92,Wind,Mark Turner,Excavation area adjustment
+2025-09-06,SITE-002,3,12,300.35,27.59,272.76,9.19,1.5,Clear,Mark Turner,Weather-related slowdown
+2025-09-08,SITE-005,3,10,331.4,25.66,305.74,7.74,0.31,Clear,Mark Turner,Normal operations
+2025-09-09,SITE-001,4,6,160.82,20.08,140.74,12.49,1.13,Wind,Mark Turner,Routine safety meeting conducted
+2025-09-11,SITE-006,2,8,95.26,17.94,77.32,18.83,1.37,Clear,Mark Turner,Routine safety meeting conducted
+2025-09-12,SITE-005,3,6,159.01,29.64,129.37,18.64,1.49,Clear,Caitlin Furby,Weather-related slowdown
+2025-09-19,SITE-005,2,10,150.78,32.31,118.47,21.43,0.56,Clear,Mark Turner,Excavation area adjustment
+2025-09-20,SITE-006,4,14,492.75,75.17,417.58,15.03,1.02,Clear,Caitlin Furby,Minor mechanical delay
+2025-09-23,SITE-006,4,6,178.49,39.7,138.79,22.24,1.12,Clear,Caitlin Furby,Weather-related slowdown
+2025-09-25,SITE-006,3,9,279.57,19.83,259.74,7.09,0.29,Clear,Mark Turner,Normal operations
+2025-09-27,SITE-002,4,11,298.16,15.62,282.54,5.24,1.51,Wind,Caitlin Furby,Weather-related slowdown
+2025-09-29,SITE-001,3,7,144.33,35.2,109.13,24.39,0.35,Wind,Mark Turner,Excavation area adjustment
+2025-09-30,SITE-006,3,12,279.35,55.02,224.33,19.7,2.08,Wind,Caitlin Furby,Excavation area adjustment
+2025-10-01,SITE-002,3,7,178.69,42.6,136.09,23.84,1.41,Wind,Caitlin Furby,Weather-related slowdown
+2025-10-03,SITE-001,1,13,76.8,15.11,61.69,19.67,2.56,Clear,Mark Turner,Minor mechanical delay
+2025-10-05,SITE-005,3,10,335.7,41.58,294.12,12.39,0.05,Wind,Caitlin Furby,Excavation area adjustment
+2025-10-07,SITE-002,1,6,50.04,8.93,41.11,17.85,2.96,Rain,Mark Turner,Weather-related slowdown
+2025-10-08,SITE-006,2,6,53.27,9.93,43.34,18.64,2.36,Wind,Mark Turner,Routine safety meeting conducted
+2025-10-11,SITE-005,2,7,77.08,15.56,61.52,20.19,2.51,Wind,Caitlin Furby,Minor mechanical delay
+2025-10-15,SITE-006,2,8,125.77,14.16,111.61,11.26,2.26,Wind,Mark Turner,Productivity within expected range
+2025-10-16,SITE-002,4,9,365.42,72.14,293.28,19.74,1.08,Wind,Mark Turner,Minor mechanical delay
+2025-10-17,SITE-002,4,6,173.33,31.07,142.26,17.93,1.89,Wind,Mark Turner,Excavation area adjustment
+2025-10-18,SITE-001,1,10,88.3,15.86,72.44,17.96,0.92,Wind,Caitlin Furby,Minor mechanical delay
+2025-10-19,SITE-002,2,11,163.7,34.92,128.78,21.33,0.66,Rain,Mark Turner,Normal operations
+2025-10-20,SITE-002,3,14,397.87,97.57,300.3,24.52,1.54,Rain,Caitlin Furby,Routine safety meeting conducted
+2025-10-21,SITE-002,3,7,106.64,23.06,83.58,21.62,2.57,Rain,Mark Turner,Excavation area adjustment
+2025-10-22,SITE-002,2,14,172.57,26.55,146.02,15.39,2.03,Rain,Caitlin Furby,Minor mechanical delay
+2025-10-24,SITE-005,1,14,119.09,6.94,112.15,5.83,2.45,Wind,Mark Turner,Minor mechanical delay
+2025-10-26,SITE-006,3,14,431.38,65.19,366.19,15.11,0.93,Clear,Mark Turner,Minor mechanical delay
+2025-10-30,SITE-006,2,7,92.04,6.58,85.46,7.15,1.02,Clear,Mark Turner,Normal operations
+2025-10-31,SITE-001,1,11,116.5,23.52,92.98,20.19,0.51,Wind,Caitlin Furby,Normal operations
+2025-11-04,SITE-002,1,9,62.42,14.21,48.21,22.77,2.4,Wind,Mark Turner,Weather-related slowdown
+2025-11-09,SITE-006,3,13,245.38,29.01,216.37,11.82,2.27,Wind,Mark Turner,Routine safety meeting conducted
+2025-11-11,SITE-005,2,10,175.41,9.42,165.99,5.37,1.26,Wind,Caitlin Furby,Weather-related slowdown
+2025-11-15,SITE-005,1,13,116.73,24.24,92.49,20.77,1.2,Rain,Caitlin Furby,Minor mechanical delay
+2025-11-18,SITE-005,2,11,194.63,12.76,181.87,6.56,1.63,Rain,Caitlin Furby,Normal operations
+2025-11-20,SITE-002,1,13,132.55,15.47,117.08,11.67,1.57,Rain,Mark Turner,Excavation area adjustment
+2025-11-21,SITE-006,2,11,159.2,26.03,133.17,16.35,2.72,Wind,Mark Turner,Minor mechanical delay
+2025-11-22,SITE-001,2,7,118.1,17.72,100.38,15,1.9,Clear,Caitlin Furby,Weather-related slowdown
+2025-11-23,SITE-002,4,11,318.55,17.99,300.56,5.65,2.36,Frozen Ground,Caitlin Furby,Routine safety meeting conducted
+2025-12-01,SITE-005,4,13,389.26,65.9,323.36,16.93,1.55,Snow,Caitlin Furby,Routine safety meeting conducted
+2025-12-06,SITE-001,2,11,130.64,32.4,98.24,24.8,3.88,Frozen Ground,Caitlin Furby,Minor mechanical delay
+2025-12-10,SITE-005,1,8,50.06,11.61,38.45,23.19,6.21,Snow,Mark Turner,Normal operations
+2025-12-11,SITE-002,2,13,138.26,31.58,106.68,22.84,4.75,Frozen Ground,Mark Turner,Normal operations
+2025-12-12,SITE-006,3,9,137.53,33.67,103.86,24.48,4.12,Snow,Caitlin Furby,Minor mechanical delay
+2025-12-16,SITE-001,1,9,50.02,5.41,44.61,10.82,4.47,Frozen Ground,Caitlin Furby,Excavation area adjustment
+2025-12-17,SITE-005,4,8,152.89,20.51,132.38,13.41,4.34,Snow,Caitlin Furby,Weather-related slowdown
+2025-12-22,SITE-002,2,13,160.01,22.69,137.32,14.18,3.65,Frozen Ground,Mark Turner,Weather-related slowdown
+2025-12-27,SITE-001,3,7,73.01,14.02,58.99,19.2,3.71,Frozen Ground,Mark Turner,Minor mechanical delay
+2025-12-30,SITE-006,2,9,151.61,18.77,132.84,12.38,2.54,Frozen Ground,Caitlin Furby,Excavation area adjustment
+2025-12-31,SITE-006,4,14,262.1,37.4,224.7,14.27,6.89,Frozen Ground,Mark Turner,Minor mechanical delay

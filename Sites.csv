@@ -1,0 +1,11 @@
+﻿Site ID,Claim Number,Site Name,Latitude,Longitude,Elevation,Terrain Type,Overburden Type,Water Proximity,Seasonal Restrictions
+SITE-001,091-9125-1047,Red Deer Coulee Site,49.8452,-112.4581,845,Coulee,Clay,50–200m,No Rain Operations (Slope Instability)
+SITE-002,091-9125-1047,Shale Ridge North,49.9234,-113.1043,910,Shale Hill,Shale,200m+,Year-Round
+SITE-003,091-9125-2389,Prairie Edge West,49.6123,-111.8921,780,Flat Prairie,Topsoil,200m+,Year-Round
+SITE-004,091-9125-2389,Willow Creek Bank,49.7345,-112.0045,760,Creek Edge,Mixed Gravel,<50m,No Rain Operations (Slope Instability)
+SITE-005,091-9125-6702,Badlands South Pit,50.1021,-113.5504,1025,Shale Hill,Shale,50–200m,No Winter Mining (Frozen Ground)
+SITE-006,091-9125-6702,Horseshoe Coulee,49.9884,-112.8756,890,Coulee,Clay,50–200m,No Rain Operations (Slope Instability)
+SITE-007,091-9125-8891,Sagebrush Prairie,49.4556,-110.9823,720,Flat Prairie,Topsoil,200m+,Year-Round
+SITE-008,091-9125-8891,Deer Creek Terrace,49.6789,-111.5432,805,Creek Edge,Mixed Gravel,<50m,No Rain Operations (Slope Instability)
+SITE-009,091-9125-9036,Fossil Ridge East,50.2213,-114.1123,1150,Shale Hill,Shale,200m+,No Winter Mining (Frozen Ground)
+SITE-010,091-9125-9036,Coulee Flats Central,49.8127,-112.6789,870,Coulee,Clay,50–200m,Year-Round
