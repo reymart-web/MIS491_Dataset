@@ -1,0 +1,61 @@
+﻿Incident ID,Date,Site ID,Severity,Injury,Environmental Impact,Action Taken,Reported To,Closure Status,Disturbance Area (m_),Reclamation Method,Vegetation Restored,Soil Stabilized,Inspection Date,Compliance Status
+INC-001,2025-05-16,SITE-001,Critical,Yes,Yes,Emergency response activated; regulator notified,Regulator,Open,566,Mechanical Backfill,No,No,2025-05-17,Non-Compliant
+INC-002,2025-03-11,SITE-002,Moderate,Yes,Yes,Supervisor notified; follow-up required,Environmental Officer,Under Review,60,Reseed,Yes,No,2025-03-14,Pending
+INC-003,2025-01-21,SITE-005,Moderate,Yes,No,Supervisor notified; follow-up required,Site Supervisor,Under Review,97,Hand Backfill,No,Yes,2025-01-24,Pending
+INC-004,2025-07-15,SITE-006,High,Yes,Yes,Work stopped; investigation initiated,Regulator,Under Review,350,Mechanical Backfill,No,Yes,2025-07-17,Non-Compliant
+INC-005,2025-10-15,SITE-001,Low,No,No,Reminder and minor corrective action completed,Site Supervisor,Closed,32,Hand Backfill,No,Yes,2025-10-16,Compliant
+INC-006,2025-07-06,SITE-002,Moderate,Yes,No,Supervisor notified; follow-up required,Site Supervisor,Under Review,48,Hand Backfill,No,Yes,2025-07-09,Pending
+INC-007,2025-02-06,SITE-005,Critical,Yes,Yes,Emergency response activated; regulator notified,Regulator,Open,896,Mechanical Backfill,No,No,2025-02-07,Non-Compliant
+INC-008,2025-08-02,SITE-006,Low,No,Yes,Supervisor notified; follow-up required,Environmental Officer,Under Review,57,Reseed,Yes,No,2025-08-05,Pending
+INC-009,2025-01-17,SITE-001,Low,No,No,Reminder and minor corrective action completed,Site Supervisor,Closed,40,Hand Backfill,No,Yes,2025-01-18,Compliant
+INC-010,2025-12-07,SITE-002,Low,No,No,Reminder and minor corrective action completed,Site Supervisor,Closed,8,Hand Backfill,No,Yes,2025-12-08,Compliant
+INC-011,2025-11-23,SITE-005,High,Yes,Yes,Work stopped; investigation initiated,Regulator,Under Review,423,Mechanical Backfill,No,Yes,2025-11-25,Non-Compliant
+INC-012,2025-08-27,SITE-006,Moderate,No,No,Reminder and minor corrective action completed,Internal Safety Log,Closed,86,Hand Backfill,No,Yes,2025-08-28,Compliant
+INC-013,2025-04-08,SITE-001,High,Yes,Yes,Work stopped; investigation initiated,Regulator,Under Review,167,Mechanical Backfill,No,Yes,2025-04-10,Non-Compliant
+INC-014,2025-10-13,SITE-002,High,Yes,Yes,Work stopped; investigation initiated,Regulator,Under Review,169,Mechanical Backfill,No,Yes,2025-10-15,Non-Compliant
+INC-015,2025-02-23,SITE-005,Critical,Yes,Yes,Emergency response activated; regulator notified,Regulator,Open,540,Mechanical Backfill,No,No,2025-02-24,Non-Compliant
+INC-016,2025-11-15,SITE-006,Low,No,No,Reminder and minor corrective action completed,Site Supervisor,Closed,1,Hand Backfill,No,Yes,2025-11-16,Compliant
+INC-017,2025-08-01,SITE-001,High,No,Yes,Work stopped; investigation initiated,Regulator,Under Review,173,Mechanical Backfill,No,Yes,2025-08-03,Non-Compliant
+INC-018,2025-06-02,SITE-002,Low,No,Yes,Supervisor notified; follow-up required,Environmental Officer,Under Review,4,Reseed,Yes,No,2025-06-05,Pending
+INC-019,2025-11-20,SITE-005,Moderate,No,Yes,Supervisor notified; follow-up required,Environmental Officer,Under Review,88,Reseed,Yes,No,2025-11-23,Pending
+INC-020,2025-04-24,SITE-006,Moderate,Yes,Yes,Supervisor notified; follow-up required,Environmental Officer,Under Review,45,Reseed,Yes,No,2025-04-27,Pending
+INC-021,2025-09-08,SITE-001,Moderate,No,No,Reminder and minor corrective action completed,Internal Safety Log,Closed,89,Hand Backfill,No,Yes,2025-09-09,Compliant
+INC-022,2025-02-27,SITE-002,High,Yes,Yes,Work stopped; investigation initiated,Regulator,Under Review,310,Mechanical Backfill,No,Yes,2025-03-01,Non-Compliant
+INC-023,2025-03-14,SITE-005,Low,No,No,Reminder and minor corrective action completed,Site Supervisor,Closed,29,Hand Backfill,No,Yes,2025-03-15,Compliant
+INC-024,2025-08-10,SITE-006,Critical,Yes,Yes,Emergency response activated; regulator notified,Regulator,Open,720,Mechanical Backfill,No,No,2025-08-11,Non-Compliant
+INC-025,2025-09-15,SITE-001,Critical,Yes,Yes,Emergency response activated; regulator notified,Regulator,Open,629,Mechanical Backfill,No,No,2025-09-16,Non-Compliant
+INC-026,2025-07-23,SITE-002,Low,Yes,No,Supervisor notified; follow-up required,Internal Safety Log,Under Review,38,Hand Backfill,No,Yes,2025-07-26,Pending
+INC-027,2025-11-08,SITE-005,Low,No,No,Reminder and minor corrective action completed,Site Supervisor,Closed,3,Hand Backfill,No,Yes,2025-11-09,Compliant
+INC-028,2025-04-06,SITE-006,Low,No,Yes,Supervisor notified; follow-up required,Environmental Officer,Under Review,16,Reseed,Yes,No,2025-04-09,Pending
+INC-029,2025-01-29,SITE-001,Moderate,Yes,Yes,Supervisor notified; follow-up required,Environmental Officer,Under Review,94,Reseed,Yes,No,2025-02-01,Pending
+INC-030,2025-04-25,SITE-002,High,Yes,Yes,Work stopped; investigation initiated,Regulator,Under Review,453,Mechanical Backfill,No,Yes,2025-04-27,Non-Compliant
+INC-031,2025-07-26,SITE-005,Moderate,Yes,No,Supervisor notified; follow-up required,Site Supervisor,Under Review,74,Hand Backfill,No,Yes,2025-07-29,Pending
+INC-032,2025-10-12,SITE-006,Low,Yes,No,Supervisor notified; follow-up required,Internal Safety Log,Under Review,100,Hand Backfill,No,Yes,2025-10-15,Pending
+INC-033,2025-09-07,SITE-001,High,No,Yes,Work stopped; investigation initiated,Regulator,Under Review,252,Mechanical Backfill,No,Yes,2025-09-09,Non-Compliant
+INC-034,2025-01-02,SITE-002,Moderate,No,No,Reminder and minor corrective action completed,Internal Safety Log,Closed,277,Mechanical Backfill,No,Yes,2025-01-03,Compliant
+INC-035,2025-12-05,SITE-005,Moderate,Yes,No,Supervisor notified; follow-up required,Site Supervisor,Under Review,290,Mechanical Backfill,No,Yes,2025-12-08,Pending
+INC-036,2025-02-14,SITE-006,High,No,Yes,Work stopped; investigation initiated,Regulator,Under Review,108,Mechanical Backfill,No,Yes,2025-02-16,Non-Compliant
+INC-037,2025-06-14,SITE-001,Critical,No,Yes,Emergency response activated; regulator notified,Regulator,Open,875,Mechanical Backfill,No,No,2025-06-15,Non-Compliant
+INC-038,2025-03-30,SITE-002,Low,No,No,Reminder and minor corrective action completed,Site Supervisor,Closed,489,Mechanical Backfill,No,Yes,2025-03-31,Compliant
+INC-039,2025-11-04,SITE-005,High,Yes,No,Work stopped; investigation initiated,Regulator,Under Review,58,Hand Backfill,No,Yes,2025-11-06,Non-Compliant
+INC-040,2025-06-14,SITE-006,Low,No,No,Reminder and minor corrective action completed,Site Supervisor,Closed,317,Mechanical Backfill,No,Yes,2025-06-15,Compliant
+INC-041,2025-01-19,SITE-001,Low,Yes,Yes,Supervisor notified; follow-up required,Environmental Officer,Under Review,859,Mechanical Backfill,No,Yes,2025-01-22,Pending
+INC-042,2025-08-12,SITE-002,Moderate,No,Yes,Supervisor notified; follow-up required,Environmental Officer,Under Review,24,Reseed,Yes,No,2025-08-15,Pending
+INC-043,2025-01-28,SITE-005,Low,No,No,Reminder and minor corrective action completed,Site Supervisor,Closed,83,Hand Backfill,No,Yes,2025-01-29,Compliant
+INC-044,2025-01-01,SITE-006,Critical,Yes,No,Emergency response activated; regulator notified,Regulator,Open,75,Hand Backfill,No,No,2025-01-02,Non-Compliant
+INC-045,2025-03-30,SITE-001,Moderate,No,No,Reminder and minor corrective action completed,Internal Safety Log,Closed,22,Hand Backfill,No,Yes,2025-03-31,Compliant
+INC-046,2025-10-30,SITE-002,Low,No,No,Reminder and minor corrective action completed,Site Supervisor,Closed,805,Mechanical Backfill,No,Yes,2025-10-31,Compliant
+INC-047,2025-08-23,SITE-005,Critical,Yes,No,Emergency response activated; regulator notified,Regulator,Open,704,Mechanical Backfill,No,No,2025-08-24,Non-Compliant
+INC-048,2025-01-20,SITE-006,High,Yes,Yes,Work stopped; investigation initiated,Regulator,Under Review,10,Reseed,Yes,No,2025-01-22,Non-Compliant
+INC-049,2025-11-26,SITE-001,Moderate,Yes,Yes,Supervisor notified; follow-up required,Environmental Officer,Under Review,50,Reseed,Yes,No,2025-11-29,Pending
+INC-050,2025-08-06,SITE-002,Low,No,No,Reminder and minor corrective action completed,Site Supervisor,Closed,6,Hand Backfill,No,Yes,2025-08-07,Compliant
+INC-051,2025-02-23,SITE-005,Low,No,Yes,Supervisor notified; follow-up required,Environmental Officer,Under Review,120,Mechanical Backfill,No,Yes,2025-02-26,Pending
+INC-052,2025-03-08,SITE-006,Moderate,Yes,No,Supervisor notified; follow-up required,Site Supervisor,Under Review,114,Mechanical Backfill,No,Yes,2025-03-11,Pending
+INC-053,2025-06-16,SITE-001,Low,Yes,Yes,Supervisor notified; follow-up required,Environmental Officer,Under Review,119,Mechanical Backfill,No,Yes,2025-06-19,Pending
+INC-054,2025-10-15,SITE-002,Moderate,Yes,No,Supervisor notified; follow-up required,Site Supervisor,Under Review,65,Hand Backfill,No,Yes,2025-10-18,Pending
+INC-055,2025-10-11,SITE-005,Moderate,No,Yes,Supervisor notified; follow-up required,Environmental Officer,Under Review,99,Reseed,Yes,No,2025-10-14,Pending
+INC-056,2025-12-08,SITE-006,Low,Yes,Yes,Supervisor notified; follow-up required,Environmental Officer,Under Review,103,Mechanical Backfill,No,Yes,2025-12-11,Pending
+INC-057,2025-05-14,SITE-001,Moderate,Yes,No,Supervisor notified; follow-up required,Site Supervisor,Under Review,69,Hand Backfill,No,Yes,2025-05-17,Pending
+INC-058,2025-06-29,SITE-002,Low,Yes,No,Supervisor notified; follow-up required,Internal Safety Log,Under Review,72,Hand Backfill,No,Yes,2025-07-02,Pending
+INC-059,2025-10-12,SITE-005,High,Yes,No,Work stopped; investigation initiated,Regulator,Under Review,757,Mechanical Backfill,No,Yes,2025-10-14,Non-Compliant
+INC-060,2025-10-26,SITE-006,Critical,No,Yes,Emergency response activated; regulator notified,Regulator,Open,81,Reseed,No,No,2025-10-27,Non-Compliant
